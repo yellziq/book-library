@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Гордость и предубеждение",
+    "author": "Джейн Остин",
+    "genre": "Роман",
+    "year": 1813,
+    "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg",
+    "description": "Классический роман о любви, характере и социальных различиях."
+  },
+  {
+    "id": 2,
+    "title": "Маленькие женщины",
+    "author": "Луиза Мэй Олкотт",
+    "genre": "Классика",
+    "year": 1868,
+    "image": "https://covers.openlibrary.org/b/id/8225261-L.jpg",
+    "description": "История взросления четырёх сестёр, их мечт и жизненного пути."
+  },
+  {
+    "id": 3,
+    "title": "Джейн Эйр",
+    "author": "Шарлотта Бронте",
+    "genre": "Роман",
+    "year": 1847,
+    "image": "https://covers.openlibrary.org/b/id/8226191-L.jpg",
+    "description": "Роман о внутренней силе, свободе и поиске своего места в жизни."
+  },
+  {
+    "id": 4,
+    "title": "1984",
+    "author": "Джордж Оруэлл",
+    "genre": "Антиутопия",
+    "year": 1949,
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    "description": "Знаменитая антиутопия о тотальном контроле и свободе личности."
+  },
+  {
+    "id": 5,
+    "title": "Убить пересмешника",
+    "author": "Харпер Ли",
+    "genre": "Роман",
+    "year": 1960,
+    "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+    "description": "Трогательная история о справедливости, детстве и взрослении."
+  },
+  {
+    "id": 6,
+    "title": "Великий Гэтсби",
+    "author": "Фрэнсис Скотт Фицджеральд",
+    "genre": "Классика",
+    "year": 1925,
+    "image": "https://covers.openlibrary.org/b/id/7352161-L.jpg",
+    "description": "История роскоши, любви и одиночества в Америке 1920-х годов."
+  }
+]
